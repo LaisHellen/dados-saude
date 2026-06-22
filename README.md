@@ -152,7 +152,6 @@ Essas mudanças sugerem transformações no perfil epidemiológico da populaçã
 * Python
 * PySUS
 * Pandas
-* NumPy
 * Matplotlib
 * Seaborn
 * Google Colab
